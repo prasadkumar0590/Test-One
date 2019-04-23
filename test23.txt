@@ -1,4 +1,4 @@
 Position: Senior QA (selenium with python)
 Mode of Interview: Face to Face/Telephonic
 Skill: Automation testing with selenium and python
-Skill: Automation testing with selenium and python1
+Skill: Automation testing with selenium and python3
